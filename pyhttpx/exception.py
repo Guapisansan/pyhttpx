@@ -27,7 +27,7 @@ class ConnectionClosed(BaseExpetion):
     pass
 
 class ReadTimeout(BaseExpetion):
-    pass
+    ...
 class TooManyRedirects(BaseExpetion):
     pass
 
